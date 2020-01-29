@@ -1,5 +1,5 @@
-import 'package:extract_a_widget/screen/HomeScreen.dart';
 import 'package:flutter/material.dart';
+import 'package:extract_a_widget/screens/home_screen.dart';
 
 void main() => runApp(MyApp());
 
@@ -16,4 +16,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-

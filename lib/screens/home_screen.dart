@@ -8,7 +8,10 @@ class HomeScreen extends StatelessWidget {
         title: Text("Hello Youtube"),
       ),
       body: Container(
-        child: Center(child: Text("Hello World!")),
+        child: Center(
+            child: Text(
+          "Hello World!",
+        )),
       ),
     );
   }
